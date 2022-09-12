@@ -34,5 +34,7 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println("It's GitHub training project");
+        System.out.println("333");
     }
 }
