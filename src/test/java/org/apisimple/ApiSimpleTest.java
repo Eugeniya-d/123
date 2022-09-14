@@ -1,13 +1,11 @@
 package org.apisimple;
 
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
 import org.apisimple.api.PetShopApi;
 import org.apisimple.payloads.NewPet;
-import org.approvaltests.Approvals;
-import org.junit.Assert;
-import org.junit.Test;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 
 public class ApiSimpleTest {
