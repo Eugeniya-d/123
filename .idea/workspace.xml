@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a53f403-2fa7-4735-b97e-3134ebe9163f" name="Changes" comment="new1" />
+    <list default="true" id="04f56478-335a-4027-ab45-0fa123f0c61d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apisimple/ApiSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apisimple/ApiSimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/api/BaseApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/api/BaseApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/api/PetShopApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/api/PetShopApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apisimple/ApiSimpleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/apisimple/ApiSimpleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/secondBranch" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -27,26 +50,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/Users/eudeniya_d/Desktop/IdeaProjects/newPr/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="AppTest.testApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/eudeniya_d/Desktop/IdeaProjects/newPr/src/test/testNG.xml">
+    <configuration name="ApiSimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="newPr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.apisimple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
-      <option name="METHOD_NAME" value="testApp" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.apisimple" />
+      <option name="MAIN_CLASS_NAME" value="org.apisimple.ApiSimpleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,9 +93,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ApiSimpleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="newPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apisimple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apisimple" />
+      <option name="MAIN_CLASS_NAME" value="org.apisimple.ApiSimpleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/eudeniya_d/Desktop/IdeaProjects/newPr/src/test/testNG.xml" type="TestNG" nameIsGenerated="true">
+      <module name="newPr" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ApiSimpleTest" />
+      <item itemvalue="TestNG./Users/eudeniya_d/Desktop/IdeaProjects/newPr/src/test/testNG.xml" />
+      <item itemvalue="TestNG.ApiSimpleTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest.testApp" />
+        <item itemvalue="TestNG.ApiSimpleTest" />
+        <item itemvalue="JUnit.ApiSimpleTest" />
       </list>
     </recent_temporary>
   </component>
