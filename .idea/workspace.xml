@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04f56478-335a-4027-ab45-0fa123f0c61d" name="Changes" comment="Изменен gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apisimple/ApiSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apisimple/ApiSimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/api/BaseApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/api/BaseApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/api/PetShopApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/api/PetShopApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/apisimple/payloads/NewPet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apisimple/ApiSimpleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/apisimple/ApiSimpleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663161727759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Изменен gitignore">
+      <created>1663161775454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663161775454</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

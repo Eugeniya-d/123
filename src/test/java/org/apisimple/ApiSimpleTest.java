@@ -24,7 +24,7 @@ public class ApiSimpleTest {
         Assert.assertEquals(response.statusCode(),200);
     }
     @Test
-    public void getBookingIdShouldReturn200(){
+    public void getPetReturn200(){
         Response response = PetShopApi.getPet(777055512);
 
         Assert.assertEquals(response.statusCode(),200);
